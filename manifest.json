@@ -1,0 +1,27 @@
+{
+      "short_name": "xatme",
+      "name": "xatme",
+      "icons": [
+            {
+                  "src": "./themes/shared/images/favicon.png",
+                  "type": "image/png",
+                  "sizes": "36x36"
+            },
+            {
+                  "src": "./themes/shared/images/logo_192.png",
+                  "type": "image/png",
+                  "sizes": "192x192"
+            },
+            {
+                  "src": "./themes/shared/images/logo_512.png",
+                  "type": "image/png",
+                  "sizes": "512x512"
+            }
+      ],
+      "start_url": ".",
+      "background_color": "#070b30",
+      "display": "standalone",
+      "orientation": "portrait",
+      "theme_color": "#070b30",
+      "description": "Start now to effectively manage and organize your xatspace"
+}
